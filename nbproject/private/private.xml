@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/query/Predicate.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/planner/BasicUpdatePlanner.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/query/SelectScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/planner/BasicQueryPlanner.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/query/ProductPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/SortPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/NoDupsHashPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/MaterializePlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/NoDupsSortPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/test/simpledb/SimpleTestHashJoin.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/query/SelectPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/SortScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/query/Term.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/NoDupsHashScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/HashJoinPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/NDSortPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/HashJoinScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/NoDupsSortScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/NDHashPlan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/query/TableScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/GroupValue.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/materialize/HashScan.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/test/simpledb/SimpleTestDuplicateElimination.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/src/simpledb/record/TableInfo.java</file>
+            <file>file:/C:/Users/Tomoe/Documents/NetBeansProjects/Simple/test/simpledb/SimpleTest.java</file>
+        </group>
+    </open-files>
+</project-private>
